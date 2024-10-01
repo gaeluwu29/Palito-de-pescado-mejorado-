@@ -13,8 +13,8 @@ Presentamos **UMTmap**, una herramienta de recopilación de toda la información
 - Objetivo [1 objetivo](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.1%20Descripcio/1.%20objetivo.md)
 - Usuarios [2 usuarios](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.1%20Descripcio/2.%20Usuario.md)
 - Innovación [3 innovación](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.1%20Descripcio/3.%20Inovacion.md)
-- Historias de usuarios[1 Historias de usuarios]()
-- Requerimientos [2 requerimientos]()
+- Historias de usuarios[1 Historias de usuarios](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.2%20Requerimientos%20e%20Historias%20de%20usuario/1.%20Historias%20de%20usuario.md)
+- Requerimientos [2 requerimientos](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.2%20Requerimientos%20e%20Historias%20de%20usuario/2.%20requerimientos.md)
 - Descripcion del proceso 
 - Evidencia de reuniones 
 - Competencias 
