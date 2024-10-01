@@ -5,7 +5,7 @@ Presentamos **UMTmap**, una herramienta de recopilación de toda la información
 - Gael Uyuumil Cordero Chavez [gaeluwu29](https://github.com/gaeluwu29)
 - Alan jesus Kuyoc Itza [Alankuyoc](https://github.com/AlanKuyoc) 
 - Yesica Marisol Nahuat Tamay [yesicanahuat]() 
-- Angel Gabriel Fernández Mena [GaboFdzz]() 
+- Angel Gabriel Fernández Mena [GaboFdzz](https://github.com/GaboFdzz)
 - Rolando Juan Contreras Famania 
 
 # **Primera entrega**
