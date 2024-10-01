@@ -1,5 +1,6 @@
 # sistema de ubicación para alumnos y visitantes 
-## UMT-MAP pp
+![logo](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.6Im%C3%A1genes/IMG-20240930-WA0023.jpg)
+## UMT-MAP 
 ñññ
 Presentamos **UMTmap**, una herramienta de recopilación de toda la información académica relacionada con los horarios de las clases obligatorias, las asesorías que ofrecen los maestros y los administrativos. Que aunque se proporcionan a los alumnos, a menudo se olvidan. En algunos casos, la única manera de recuperar la información es preguntando, lo que puede ser caótico por diversas razones. Por eso, buscamos ofrecer una solución más práctica y moderna. Aunque pueda parecer trivial, esta información sería de gran ayuda, especialmente para los alumnos de nuevo ingreso, pero también para los más avanzados
 ## *Equipo*
