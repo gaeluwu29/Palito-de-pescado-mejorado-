@@ -10,7 +10,7 @@ Presentamos **UMTmap**, una herramienta de recopilación de toda la información
 - Rolando Juan Contreras Famania 
 
 # **Primera entrega**
-- Objetivo 
+- Objetivo [objetivo](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.1%20Descripcio/1.%20objetivo.md)
 - Usuarios 
 - Innovación 
 - Historias de usuarios 
