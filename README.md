@@ -10,11 +10,11 @@ Presentamos **UMTmap**, una herramienta de recopilación de toda la información
 - Rolando Juan Contreras Famania 
 
 # **Primera entrega**
-- Objetivo [objetivo](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.1%20Descripcio/1.%20objetivo.md)
-- Usuarios 
-- Innovación 
-- Historias de usuarios 
-- Requerimientos 
+- Objetivo [1 objetivo](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.1%20Descripcio/1.%20objetivo.md)
+- Usuarios [2 usuarios](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.1%20Descripcio/2.%20Usuario.md)
+- Innovación [3 innovación](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.1%20Descripcio/3.%20Inovacion.md)
+- Historias de usuarios[1 Historias de usuarios]()
+- Requerimientos [2 requerimientos]()
 - Descripcion del proceso 
 - Evidencia de reuniones 
 - Competencias 
