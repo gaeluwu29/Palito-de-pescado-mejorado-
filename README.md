@@ -1,7 +1,6 @@
 # sistema de ubicación para alumnos y visitantes 
 ![logo](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.6Im%C3%A1genes/IMG-20240930-WA0023.jpg)
-## UMT-MAP 
-ñññ
+## UMT-MAP
 Presentamos **UMTmap**, una herramienta de recopilación de toda la información académica relacionada con los horarios de las clases obligatorias, las asesorías que ofrecen los maestros y los administrativos. Que aunque se proporcionan a los alumnos, a menudo se olvidan. En algunos casos, la única manera de recuperar la información es preguntando, lo que puede ser caótico por diversas razones. Por eso, buscamos ofrecer una solución más práctica y moderna. Aunque pueda parecer trivial, esta información sería de gran ayuda, especialmente para los alumnos de nuevo ingreso, pero también para los más avanzados
 ## *Equipo*
 - Gael Uyuumil Cordero Chavez [gaeluwu29](https://github.com/gaeluwu29)
@@ -20,3 +19,5 @@ Presentamos **UMTmap**, una herramienta de recopilación de toda la información
 - Evidencia de reuniones[2 Evidencias de reuniones](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.3%20proceso%20de%20desarrollo%20/2.%20evidencia%20de%20reuniones.md) 
 - Competencias [1 Competencias](https://github.com/gaeluwu29/Tecnomins/blob/main/Ducumentos/1.4%20Competencias%20de%20la%20asignatura/1.%20Competencias.md)
 - Documentos [1.5 Dicumentos](https://github.com/gaeluwu29/Tecnomins/tree/main/Ducumentos/1.5%20Documentos%20generales)
+ # **segunda entrega**
+
